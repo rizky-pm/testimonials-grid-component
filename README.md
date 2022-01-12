@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/rizky-pm/testimonials-grid-component)
--   Live Site URL: [Github Pages](https://your-live-site-url.com)
+-   Live Site URL: [Github Pages](https://rizky-pm.github.io/testimonials-grid-component/)
 
 ## My process
 
